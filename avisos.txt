@@ -1,0 +1,9 @@
+MAT -- No cumple requisitos
+ -- Comando no encontrado
+MAT -- No cumple requisitos
+IP -- ERROR INESPERADO, SALTA EXCEPCION
+ACD -- Grupo ya asignado
+MAT -- No cumple requisitos
+AGRUPO -- Se genera solape
+IP -- ERROR INESPERADO, SALTA EXCEPCION
+MAT -- No cumple requisitos

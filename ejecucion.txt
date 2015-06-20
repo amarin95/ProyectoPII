@@ -1,0 +1,27 @@
+*Empieza la prueba
+InsertaPersona alumno "Alberto" "Marín González" 09/06/1995 20/09/2013 5.0
+*Luego probar con campo de nota vacío
+InsertaPersona profesor "Yo tambien" "Quiero ser profesor" 09/06/1995 titular "Ingeniería pene" 20
+InsertaPersona profesor "El que no" "Quiero ser profesor" 09/06/1995 titular "Ingeniería penosa" 20
+InsertaPersona profesor Culo "Pene" 08/10/1970 interino "Ingenieria
+*Comprobar edades y campos
+*Hasta aquí bien en ejecucion normal
+*Introducido Asignaturas.txt
+AsignaCoordinador 2 23
+*Coordinador bien asignado, comprobar avisos
+*Encontrado error al escribir en lista varios requisitos.
+asignacargadocente 2 45 T 1
+*Ver solapes y todo eso
+*Ya asigna, arreglado
+matricula 1 23
+matricula 1 45
+*Matriculamos a alumno 1, comprobar prerequisitos
+*matricula y comprueba
+asignagrupo 1 45 T 1
+*asigna correctamente ver avisos
+*Evaluar 45 notas.txt
+*Evalua bien, ver avisos
+ObtenerCalendarioClases 1 Calendar.txt
+*Calendario bonito, probar orden cronológico... VA por horas pero no por dias (locura)
+OrdenarProfesoresPorCargaDocente popes.txt
+OrdenarAsignaturas signas.txt

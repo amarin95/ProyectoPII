@@ -1,0 +1,30 @@
+1
+alumno
+Alberto
+Mar�n Gonz�lez
+09/06/1995
+20/09/2013
+
+5.0
+45 T 1
+*
+2
+profesor
+Yo tambien
+Quiero ser profesor
+09/06/1995
+titular
+Ingenier�a pene
+20
+45 T 1
+*
+3
+profesor
+El que no
+Quiero ser profesor
+09/06/1995
+titular
+Ingenier�a penosa
+20
+
+*

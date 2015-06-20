@@ -1,0 +1,20 @@
+3
+profesor
+El que no
+Quiero ser profesor
+09/06/1995
+titular
+Ingenier�a penosa
+20
+
+*
+2
+profesor
+Yo tambien
+Quiero ser profesor
+09/06/1995
+titular
+Ingenier�a pene
+20
+45 T 1
+*
